@@ -1,7 +1,8 @@
 # 22s254-Lab4-TheBigO
 
-Sean Hatfield
-Rina Watanabe
-Cyrus Baybay
-
+<ul>
+<li>Sean Hatfield</li>
+<li>Rina Watanabe</li>
+<li>Cyrus Baybay</li>
+</ul>
 
