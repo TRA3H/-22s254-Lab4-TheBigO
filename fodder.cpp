@@ -22,7 +22,7 @@ int main()
             if(tp == "Sean Hatfield\r" || tp == "Cyrus Baybay\r" || tp == "Rina Watanabe\r"){
                 cout<< tp << "\n";
             }
-            //i actually hate my life the stupid \r was in the way of getting to what i wanted - cyrus baybay
+            
             
 
         }
