@@ -1,3 +1,18 @@
+/******************************************************************************************************************************
+ * Project name: README.md Reader                                                                                             *
+ * This program is free software: you may redistribute it and/or modify it under the terms of the GNU General Public License  *
+ * This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied         *
+ * warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.     *
+ * A copy of the GNU General Public License v3 is available here:  <https://www.gnu.org/licenses/>.                           *
+ * ****************************************************************************************************************************
+
+Author: Sean Hatfield, Cyrus Baybay, Rina Watanabe
+Author email: cyrusbaybay@csu.fullerton.edu, rinawata@csu.fullerton.edu, shatfield4@csu.fullerton.edu
+Project Name: README.md Reader
+Programming languages: C++
+Date of last modification: 2022/9/28 
+*/
+
 #include <iostream>
 #include <fstream>
 #include <string>
